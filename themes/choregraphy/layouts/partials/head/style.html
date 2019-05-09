@@ -1,0 +1,11 @@
+{{ $variables := resources.Get "sass/_variables.sass" }}
+{{ $mixins := resources.Get "sass/_mixins.sass" }}
+{{ $scaffold := resources.Get "sass/scaffold.sass" }}
+{{ $style := slice $mixins $variables $scaffold | resources.Concat "sass/style.sass" | toCSS | minify | fingerprint }}
+
+<link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}" media="screen">
+{{ if .Site.Params.assets.customCSS }}
+  <link rel="stylesheet" href="{{ .Site.Params.assets.customCSS }}" media="screen">
+{{ end }}
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cabin:400|Source+Code+Pro:500">

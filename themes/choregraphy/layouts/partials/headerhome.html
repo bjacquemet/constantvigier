@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang='{{ .Site.Language.Lang }}'>
+{{- partial "head/head" . -}}
+
+<body class="home">
+  <div class="page-header home">
+    <h1 class="site-title">
+      <a href="/">
+        {{ .Site.Params.general.SiteTitle }}
+      </a>
+    </h1>
+    {{- partial "header/menu" . -}}
+  </div>
+  <main>

@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Constant VIGIER"
+theme= 'choregraphy'
+
+[params.footer]
+  content = '“Dance is a human art, performed by humans for other humans.” John Neumeier'
+
+[params.general]
+  siteTitle = 'CONSTANT VIGIER'
+  home = "CHOREOGRAPHY"

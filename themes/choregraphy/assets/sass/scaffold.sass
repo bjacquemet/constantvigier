@@ -1,0 +1,102 @@
+@import 'variables'
+@import 'mixins'
+
+*
+  box-sizing: border-box
+
+html
+  background-color: $background-color
+  text-rendering: optimizeLegibility
+  -webkit-font-smoothing: antialiased
+
+body
+  background-color: $background-color
+  color: white
+  font-size: $font-size_base
+  margin: 0
+  &.home
+    background: url('/images/background1.jpg')
+    background-size: contain
+    min-height: 85vh
+    background-position: 0 -133px
+    background-repeat: no-repeat
+
+// HEADER
+
+.page-header
+  background-color: #811825
+  padding: 35px 0
+  &.home
+    background-color: transparent
+
+h1.site-title
+  z-index: 99
+  text-align: center
+  font-family: "Cabin"
+  font-weight: 400
+  font-size: 3.42em
+  line-height: 1.21em
+  letter-spacing: 0.375em
+  width: 400px
+  margin: 0 auto
+  text-transform: uppercase
+  font-style: normal
+
+  a, a:focus, a:visited, a:active, a:link, a:hover
+    color: white
+    text-decoration: none
+
+// HEADER END
+
+// HOME
+
+.huge
+  font-family: "Cabin"
+  font-size: 6.95em
+  line-height: 1.2em
+  text-transform: uppercase
+  letter-spacing: 0.12em
+  font-weight: 400
+  font-style: normal
+  color: #fff
+  margin: 0 auto
+  text-align: center
+  padding: 180px 0 500px 0
+
+
+// HOME END
+
+// FOOTER
+footer
+  .quote
+    font-family: "Source Code Pro"
+    letter-spacing: 0.4px
+    line-height: 2.1em
+    font-weight: 500
+    background-color: $quote-background-color
+    color: $quote-text-color
+    text-align: center
+    padding: 34px
+
+  .social-media
+    display: flex
+    justify-content: center
+    width: 100%
+    margin-top: 20px
+    fill: white
+    padding: 70px 0
+    a
+      padding: 0 10px
+    svg
+      +transition(fill 0.2s)
+
+    &:hover
+      svg
+        fill: #6e7078
+        +transition(fill 0.3s)
+
+    a:focus, a:active, a:hover
+      svg
+        fill: white
+
+// FOOTER END
