@@ -1,0 +1,11 @@
+{{ partial "header" . }}
+
+  {{ .Content }}
+
+  <ul class="creations">
+  {{ range .Pages.ByDate.Reverse }}
+    {{- partial "creationlist" . -}}
+  {{ end }}
+  </ul>
+
+{{ partial "footer" . }}
