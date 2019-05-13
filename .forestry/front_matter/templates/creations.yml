@@ -21,6 +21,11 @@ fields:
   label: url
   config:
     required: true
+- name: thumbnail
+  type: file
+  config:
+    maxSize: 250
+  label: thumbnail
 pages:
 - content/creations/oh-lord.md
 - content/creations/oh-lord.md
