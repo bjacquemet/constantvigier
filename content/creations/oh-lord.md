@@ -6,3 +6,5 @@ url = "/oh-lord/"
 +++
 
 Hello
+
+{{% center %}} CENTERED TEXT {{% /center %}}
