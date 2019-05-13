@@ -1,9 +1,9 @@
-=transition($transition)
-  -webkit-transition: $transition
-  -moz-transition: $transition
-  -ms-transition: $transition
-  -o-transition: $transition
-  transition: $transition
+=transition($transition, $transition2:"")
+  -webkit-transition: $transition, $transition2
+  -moz-transition: $transition, $transition2
+  -ms-transition: $transition, $transition2
+  -o-transition: $transition, $transition2
+  transition: $transition, $transition2
 
 =smartphone
   @media (max-width: #{$tablet-width - 1px})

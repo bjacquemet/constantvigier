@@ -21,6 +21,32 @@ body
     background-position: 0 -133px
     background-repeat: no-repeat
 
+  a, a:hover, a:focus, a:active, a:visited, a:link
+    text-decoration: none
+
+  a
+    +transition(color .1s 0s ease-in-out)
+
+  button
+    text-transform: uppercase
+    font-size: 1.1em
+    letter-spacing: 0.5px
+    border-radius: 0
+    background-color: transparent
+    color: rgba(255, 255, 255, 0.9)
+    border: 2px solid rgba(255, 255, 255, 0.9)
+    +transition(0.2s background-color linear, 0.25s color linear)
+    padding: 1em 2.5em
+    cursor: pointer
+    &:hover
+      color: #1d1d1d
+      background-color: rgba(255, 255, 255, 0.9)
+
+main
+  padding: 75px 34px
+  max-width: 1080px
+  margin: auto auto
+
 // HEADER
 
 .page-header
@@ -44,7 +70,6 @@ h1.site-title
 
   a, a:focus, a:visited, a:active, a:link, a:hover
     color: white
-    text-decoration: none
 
 .menu
   display: flex
@@ -64,18 +89,44 @@ h1.site-title
     list-style-type: none
     padding-top: 1.3em
     padding-bottom: 1em
-    a
-      +transition(color .1s 0s ease-in-out)
+
     a, a:visited, a:link
-      color: $secondary-color
-      text-decoration: none
+      color: #dfd8b4
     a:focus, a:hover, a:active
       color: white
     &.active
-      a, a:visited, a:link
+      a
         color: white
+        font-weight: 500
 
 // HEADER END
+
+// FORM
+form
+  font-family: "Source Code Pro"
+  font-weight: 500
+  label
+    font-size: 1em
+    line-height: 1.5em
+    display: block
+
+  input, textarea
+    width: 100%
+    padding: 12px
+    margin: 6px 0 24px
+    border: 1px solid #ccc
+    background: #fafafa
+    color: #000
+    font-family: sans-serif
+    font-size: 12px
+    line-height: normal
+    box-sizing: border-box
+    border-radius: 2px
+
+  textarea
+    min-height: 100px
+
+// FORM END
 
 // HOME
 
@@ -96,18 +147,54 @@ h1.site-title
 // HOME END
 
 // CREATIONS
-.creations
+ul.creations
   list-style-type: none
   display: flex
   justify-content: center
   align-content: space-around
   flex-flow: row wrap
   padding: 0
-  margin: 0
+  margin: 20px auto
 
   li
-    width: 200px
+    width: 330px
     height: auto
+    display: block
+
+    a, a:visited, a:link
+      color: #d8ccc0
+    a:hover, a:active, a:focus
+      color: white
+    h2
+      font-family: "Abel"
+      font-weight: 400
+      line-height: 1.2em
+      font-size: 1.43em
+      text-transform: uppercase
+  img
+    object-fit: cover
+    object-position: center
+    height: 220px
+    width: 300px
+
+.container.creation
+  text-align: center
+
+  .back
+    text-align: left
+    button
+      color: rgba(255,255,255,.6)
+      border-color: rgba(255,255,255,.6)
+      &:hover
+        background-color: rgba(255,255,255,.6)
+        color: #1d1d1d
+      a, a:hover, a:visited, a:link, a:focus, a:active
+        color: inherit
+
+
+  h1
+    text-align: center
+
 // CREATIONS END
 
 // FOOTER

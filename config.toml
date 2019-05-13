@@ -42,7 +42,7 @@ theme= 'choregraphy'
 
 [[menu.main]]
   identifier = "contact"
-  name = "CONTACTS"
+  name = "CONTACT"
   title = "Contact"
   url = "/contact/"
   weight = -90

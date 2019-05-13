@@ -1,0 +1,16 @@
+{{ partial "header" . }}
+
+  <div class="container creation">
+    <div class="back">
+      <button>
+        <a href="/creations" title="back_button">BACK</a>
+      </button>
+    </div>
+
+    <h1>{{.Title}}</h1>
+
+    {{ .Content }}
+    {{% youtube .Params "video" %}}
+  </div>
+
+{{ partial "footer" . }}
