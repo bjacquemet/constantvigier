@@ -9,3 +9,45 @@ theme= 'choregraphy'
 [params.general]
   siteTitle = 'CONSTANT VIGIER'
   home = "CHOREOGRAPHY"
+
+[menu]
+
+[[menu.main]]
+  identifier = "home"
+  name = "HOME"
+  title = "HOME"
+  url = "/"
+  weight = -120
+
+[[menu.main]]
+  identifier = "biography"
+  name = "BIOGRAPHY"
+  title = "BIOGRAPHY"
+  url = "/biography/"
+  weight = -110
+
+[[menu.main]]
+  identifier = "creations"
+  name = "CREATIONS"
+  title = "Creations"
+  url = "/creations/"
+  weight = -100
+
+[[menu.main]]
+  identifier = "agenda"
+  name = "AGENDA"
+  title = "Agenda"
+  url = "/agenda/"
+  weight = -90
+
+[[menu.main]]
+  identifier = "contact"
+  name = "CONTACTS"
+  title = "Contact"
+  url = "/contact/"
+  weight = -90
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5

@@ -46,6 +46,36 @@ h1.site-title
     color: white
     text-decoration: none
 
+.menu
+  display: flex
+  flex-flow: row wrap
+  justify-content: space-around
+  max-width: 780px
+  margin: auto auto
+  padding-left: 0
+  li
+    font-family: "Cabin";
+    font-size: 1.285em
+    text-transform: uppercase
+    letter-spacing: 5px
+    font-weight: 400
+    font-style: normal
+    line-height: 1em
+    list-style-type: none
+    padding-top: 1.3em
+    padding-bottom: 1em
+    a
+      +transition(color .1s 0s ease-in-out)
+    a, a:visited, a:link
+      color: $secondary-color
+      text-decoration: none
+    a:focus, a:hover, a:active
+      color: white
+    &.active
+      a, a:visited, a:link
+        color: white
+
+
 // HEADER END
 
 // HOME
