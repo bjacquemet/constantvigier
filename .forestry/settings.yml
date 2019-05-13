@@ -9,11 +9,15 @@ sections:
   label: Creations
   create: all
   match: "**/*"
+  templates:
+  - creations
 - type: directory
   path: content
   label: Pages
   create: documents
   match: "*"
+  templates:
+  - pages
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
