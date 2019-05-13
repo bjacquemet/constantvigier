@@ -8,9 +8,11 @@ fields:
   name: title
   config:
     required: true
+  description: Title of the page (used for SEO as well)
 - type: textarea
   name: description
   label: description
+  description: Description of the page, used for SEO
 - type: datetime
   label: date
   name: date
@@ -21,12 +23,25 @@ fields:
   label: url
   config:
     required: true
+  description: This is the page URL (everything that goes after http://www.constantvigier.com/)
 - name: thumbnail
   type: file
   config:
     maxSize: 250
   label: thumbnail
+  description: The image that is displayed as a thumbnail on the /creations page
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: gallery
+  description: The gallery of pictures at the bottom of the page
+- name: youtube
+  type: text
+  config:
+    required: false
+  label: youtube
+  description: Link to the Youtube Video
 pages:
+- content/creations/mesdames.md
 - content/creations/raw.md
-- content/creations/oh-lord.md
 - content/creations/oh-lord.md
