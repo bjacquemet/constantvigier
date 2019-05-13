@@ -21,3 +21,5 @@ fields:
   label: url
   config:
     required: true
+pages:
+- content/creations/oh-lord.md
