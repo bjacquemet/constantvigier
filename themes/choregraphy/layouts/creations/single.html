@@ -10,7 +10,10 @@
     <h1>{{.Title}}</h1>
 
     {{ .Content }}
-    {{% youtube .Params "video" %}}
+
+    {{ if .Params.Youtube }}
+      {{ partial "youtube" .Params.Youtube }}
+    {{ end }}
   </div>
 
 {{ partial "footer" . }}
