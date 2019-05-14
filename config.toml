@@ -1,6 +1,6 @@
 baseURL = "https://constantvigier.netlify.com/"
 languageCode = "en-uk"
-title = "Constant VIGIER"
+title = "Constant Vigier"
 theme= 'choregraphy'
 
 [params.footer]
@@ -9,6 +9,11 @@ theme= 'choregraphy'
 [params.general]
   siteTitle = 'CONSTANT VIGIER'
   home = "CHOREOGRAPHY"
+
+[params]
+  description = "Constant Vigier is a Ballet Dancer and Choregrapher"
+  images = []
+  title = "Constant Vigier"
 
 [menu]
 
