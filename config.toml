@@ -47,6 +47,9 @@ theme= 'choregraphy'
   url = "/contact/"
   weight = -90
 
+[params.assets]
+  favicon = "/images/favicon.ico"
+
 [sitemap]
   changefreq = "monthly"
   filename = "sitemap.xml"
