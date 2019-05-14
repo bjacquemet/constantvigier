@@ -1,20 +1,22 @@
 +++
 date = "2019-04-30T22:00:00+00:00"
 description = "RAW"
+gallery = []
 thumbnail = "/raw.png"
 title = "RAW"
 url = "/raw/"
+youtube = ""
 
 +++
-Premiered at Cottier Theatre, Glasgow, UK. Independant : Ballet, Cottier Dance Project. Cottiers Theatre. 19 June 2015.
+Premiered at Cottier Theatre, Glasgow, UK. Independant : Ballet, Cottier Dance Project. Cottiers Theatre. 19 June 2015.
 
 This choreography was first inspired by the song "Animal" by Maroon 5.
 
 This strange feeling of wanting someone who has so much power on you that they can destroy you was the main line of the inspiration of the movement.
 
-{{% center %}} Dancers : Madeline Squire, Victor Zarallo. {{% /center %}}
+Dancers : Madeline Squire, Victor Zarallo.
 
-{{% center %}} Music : Jon Hopkins' Breathe this Air. {{% /center %}}
+Music : Jon Hopkins' Breathe this Air.
 
 **Reviews :**
 
