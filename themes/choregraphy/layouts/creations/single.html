@@ -29,6 +29,10 @@
         {{end}}
       </div>
     {{ end }}
+
+    {{ if .Params.Credit }}
+      <p class="center">{{ .Params.Credit }}</p>
+    {{ end }}
   </div>
 
 {{ partial "footer" . }}
