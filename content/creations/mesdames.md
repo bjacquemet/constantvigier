@@ -1,7 +1,7 @@
 +++
 date = "2019-05-10T12:06:17+02:00"
 description = "(MES)DAMES"
-gallery = []
+gallery = ["mesdames-gallery-1.jpg", "mesdames-gallery-2.jpg", "mesdames-gallery-3.png", "mesdames-gallery-4.jpg", "mesdames-gallery-5.jpg", "mesdames-gallery-6.jpg", "mesdames-gallery-7.png", "mesdames-gallery-8.jpg"]
 thumbnail = "/mesdames.jpg"
 title = "(MES)DAMES"
 url = "/mesdames/"

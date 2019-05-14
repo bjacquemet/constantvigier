@@ -2,17 +2,32 @@
 
   <div class="container creation">
     <div class="back">
-      <button>
-        <a href="/creations" title="back_button">BACK</a>
-      </button>
+      <a href="/creations" title="back_button">
+        <button>
+          BACK
+        </button>
+      </a>
     </div>
 
-    <h1>{{.Title}}</h1>
+    <h1>"{{.Title}}"</h1>
 
     {{ .Content }}
 
     {{ if .Params.Youtube }}
-      {{ partial "youtube" .Params.Youtube }}
+      <div class="youtube">
+        {{ partial "youtube" .Params.Youtube }}
+      </div>
+    {{ end }}
+
+    {{ if and ((.Params.Gallery) (gt (len .Params.Gallery) 0)) }}
+      {{ $title := .Title }}
+      <div class="gallery" id="lightgallery">
+        {{range .Params.Gallery }}
+          <a href="/uploads/{{.}}">
+            <img src="/uploads/{{.}}" alt={{$title}} class="img-gallery">
+          </a>
+        {{end}}
+      </div>
     {{ end }}
   </div>
 

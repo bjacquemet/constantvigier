@@ -1,11 +1,11 @@
 +++
 date = "2019-05-03T08:36:00+00:00"
 description = "OH, LORD"
-gallery = []
+gallery = ["oh-lord-gallery.jpg"]
 thumbnail = "/oh-lord.jpg"
 title = "OH, LORD"
 url = "/oh-lord/"
-youtube = ""
+youtube = "7G0BQqnUD6E"
 
 +++
 premiered at Dance Base Edinburgh, UK. Special Edition, Fringe Festival. 16 August 2015.
