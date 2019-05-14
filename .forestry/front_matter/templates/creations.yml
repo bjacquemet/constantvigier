@@ -35,6 +35,12 @@ fields:
   config: {}
   label: gallery
   description: The gallery of pictures at the bottom of the page
+- name: credit
+  type: text
+  config:
+    required: false
+  label: credit
+  description: Credit is placed bellow the gallery (for photo credit)
 - name: youtube
   type: text
   config:
