@@ -40,7 +40,7 @@ fields:
   config:
     required: false
   label: youtube
-  description: Link to the Youtube Video
+  description: ID of the youtube Video (For example "Vo0eAyCSME8" in "https://www.youtube.com/watch?v=Vo0eAyCSME8")
 pages:
 - content/creations/mesdames.md
 - content/creations/raw.md
