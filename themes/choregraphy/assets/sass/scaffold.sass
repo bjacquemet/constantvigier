@@ -18,8 +18,16 @@ body
     background: url('/images/background1.jpg')
     background-size: contain
     min-height: 85vh
-    background-position: 0 -133px
     background-repeat: no-repeat
+
+    +desktop
+      background-position: 0 -170px
+
+    +tablet
+      background-position: 0 -100px
+
+    +smartphone
+      background-position: 0 -30px
 
   a, a:hover, a:focus, a:active, a:visited, a:link
     text-decoration: none
@@ -63,11 +71,14 @@ main
   max-width: 1080px
   margin: auto auto
 
+  +smartphone
+    padding: 45px 34px
+
 // HEADER
 
 .page-header
-  background-color: #811825
-  padding: 35px 0
+  background-color: $red-background-color
+
   &.home
     background-color: transparent
 
@@ -83,6 +94,13 @@ h1.site-title
   margin: 0 auto
   text-transform: uppercase
   font-style: normal
+  padding: 35px 0
+  position: relative
+
+  +smartphone
+    font-size: 1.642em
+    padding: 15px 0
+
 
   a, a:focus, a:visited, a:active, a:link, a:hover
     color: white
@@ -159,18 +177,40 @@ form
   text-align: center
   padding: 180px 0 500px 0
 
+  +smartphone
+    font-size: 2.43em
+    padding-top: 50px
+    padding-bottom: inherit
 
 // HOME END
 
 // PAGES
 
-.container.biography
+.container.page
   font-family: "Source Code Pro", sans-serif
-  font-weight: 700
-  font-style: italic
   font-size: 1em
-  line-height: 2.07em
-  text-align: center
+
+  &.biography
+    font-weight: 700
+    font-style: italic
+    line-height: 2.07em
+    text-align: center
+
+  &.agenda
+    font-weight: 500
+    font-style: normal
+
+    li
+      margin: 0.5em auto
+      font-size: 1em
+      line-height: 2.07em
+
+    h3
+      font-family: "Abel", sans-serif
+      font-weight: 700
+      font-size: 2.285em
+      line-height: 1.187em
+      margin: 1.5em auto .3em 45px
 
 .inline-img
   text-align: center
@@ -178,6 +218,8 @@ form
   img
     max-width: 300px
     margin-top: 20px
+
+
 
 // PAGES END
 
@@ -267,7 +309,7 @@ footer
     letter-spacing: 0.4px
     line-height: 2.1em
     font-weight: 500
-    background-color: $quote-background-color
+    background-color: $red-background-color
     color: $quote-text-color
     text-align: center
     padding: 34px
@@ -308,3 +350,73 @@ footer
 
 
 // SHORTCODES END
+
+// MOBILE ONLY
+
++desktop
+  .overlay-menu, .mobile-menu, .hamburger
+    display: none
+
++tablet
+  .overlay-menu, .mobile-menu, .hamburger
+    display: none
+
++smartphone
+  .menu
+    display: none
+  .overlay-menu, .mobile-menu
+    display: block
+  .mobile-menu
+    display: flex
+    height: 100vh
+    align-items: center
+    justify-content: center
+    .menu
+      display: flex
+      align-items: center
+      text-align: center
+      height: 30vh
+      flex-direction: column
+      text-align: center
+
+      li
+        line-height: 1em
+        font-size: 1.715em
+        padding: 0
+
+  .overlay-menu
+    opacity: 0
+    +transition(all 0.3s)
+    background-color: $red-background-color
+    width: 100%
+    height: 100vh
+    position: absolute
+    top: 0
+    z-index: 1
+
+  .hamburger
+    position: absolute
+    top: 20px
+    left: 20px
+    display: block
+    z-index: 100
+
+    .bar
+      width: 22px
+      height: 2px
+      background-color: #dfd8b4
+      margin-bottom: 5px
+      position: relative
+      +transition(all 0.2s)
+    &.cross .bar
+      transform-origin: 50% 50%
+      &:nth-child(1)
+        +transform(rotate(45deg))
+        top: 7px
+      &:nth-child(3)
+        +transform(rotate(-45deg))
+      &:nth-child(2)
+        display: none
+
+
+// MOBILE ONLY END

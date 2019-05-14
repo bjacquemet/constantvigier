@@ -1,11 +1,34 @@
 {{ $currentPage := . }}
 
-<ul class="menu">
-{{ range .Site.Menus.main }}
-  <li class='{{ if eq $currentPage.URL .URL }}active{{ end }}'>
-      <a href="{{ .URL }}" title='{{.Title}}'>
-          {{ .Name }}
-      </a>
-  </li>
-{{ end }}
-</ul>
+<nav>
+  <ul class="menu">
+  {{ range .Site.Menus.main }}
+    <li class='{{ if eq $currentPage.URL .URL }}active{{ end }}'>
+        <a href="{{ .URL }}" title='{{.Title}}'>
+            {{ .Name }}
+        </a>
+    </li>
+  {{ end }}
+  </ul>
+</nav>
+
+<!-- MOBILE MENU -->
+<div class="hamburger">
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+</div>
+
+<div class="overlay-menu">
+  <nav class="mobile-menu">
+    <ul class="menu">
+    {{ range .Site.Menus.main }}
+      <li class='{{ if eq $currentPage.URL .URL }}active{{ end }}'>
+          <a href="{{ .URL }}" title='{{.Title}}'>
+              {{ .Name }}
+          </a>
+      </li>
+    {{ end }}
+    </ul>
+  </nav>
+</div>

@@ -5,6 +5,11 @@
   -o-transition: $transition
   transition: $transition
 
+=transform($property)
+  -webkit-transform: $property
+  -ms-transform: $property
+  transform: $property
+
 =smartphone
   @media (max-width: #{$tablet-width - 1px})
     @content
