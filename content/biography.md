@@ -2,9 +2,10 @@
 title: Biography
 description: Biography
 date: 2019-05-09T17:04:10.000+00:00
-
 ---
-![Constant Vigier Choregraphy](/uploads/constant-vigier.jpg "Constant Vigier Choregraphy")
+
+{{< figure src="/uploads/constant-vigier.jpg" alt="Constant Vigiaser Choregraphy" title="Portrait by Rimbaud Patron" >}}
+<br/>
 
 **I was born in Quimper, France on 12th March 1991.**
 
@@ -14,8 +15,8 @@ date: 2019-05-09T17:04:10.000+00:00
 
 **I spent half of the following season in Copenhagen with the _Tivoli Pantomime Theatre_ before joining the _Scottish Ballet_ in 2013 in Glasgow where I have been dancing since. My repertoire includes Christopher Hampson's "Rite of Spring" and "Hansel and Gretel", Kenneth MacMillan's "Elite Syncopations", Matthew Bourne's "Highland Fling", Christopher Bruce's "Ten Poems", Hans van Manen's "5 Tangos"...**
 
-<div class="img-biography">
-![](/uploads/constant-vigier-1.jpg)
-![](/uploads/constant-vigier-2.jpg)
-![](/uploads/constant-vigier-3.jpg)
-</div>
+{{% inline %}}
+![Constant Vigier Choregraphy class="inline-img"](/uploads/constant-vigier-1.jpg "Constant Vigier Choregraphy")
+![Constant Vigier Choregraphy class="inline-img"](/uploads/constant-vigier-2.jpg "Constant Vigier Choregraphy")
+![Constant Vigier Choregraphy class="inline-img"](/uploads/constant-vigier-3.jpg "Constant Vigier Choregraphy")
+{{% /inline %}}
