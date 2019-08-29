@@ -1,5 +1,6 @@
 +++
-date = "2019-04-30T22:00:00+00:00"
+credit = ""
+date = "2019-08-28T23:00:00+01:00"
 description = "RAW"
 gallery = []
 thumbnail = "/raw.png"
@@ -8,7 +9,6 @@ url = "/raw/"
 youtube = "qQwvPBioSkQ"
 
 +++
-
 Premiered at Cottier Theatre, Glasgow, UK. Independant : Ballet, Cottier Dance Project. Cottiers Theatre. 19 June 2015.
 
 </br>
