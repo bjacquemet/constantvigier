@@ -1,4 +1,4 @@
-baseURL = "https://constantvigier.netlify.com/"
+baseURL = "http://constantvigier.com/"
 languageCode = "en-uk"
 title = "Constant Vigier"
 theme= 'choregraphy'
