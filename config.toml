@@ -1,4 +1,4 @@
-baseURL = "http://constantvigier.com/"
+baseURL = "https://constantvigier.com/"
 languageCode = "en-uk"
 title = "Constant Vigier"
 theme= 'choregraphy'
