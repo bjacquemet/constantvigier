@@ -10,7 +10,7 @@ url = "/chaos/"
 youtube = "https://youtu.be/3hgC_8FME0Y"
 
 +++
-premiered at Théâtre de la Mer, Arcachon, France. Festival Cadences 2019. 22 September 2019
+premiered at Théâtre de la Mer, Arcachon, France. Festival Cadences. 22 September 2019.
 
 Inspired by Nadine Labaki's movie "Capernaum" this new piece by Constant Vigier is a reflexion on matters such as the responsibility of procreation, the conflict between modernity and tradition, and how one wants to decide for someone else.
 
