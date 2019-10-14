@@ -1,5 +1,6 @@
 +++
-date = "2019-04-29T22:00:00+00:00"
+credit = ""
+date = "2019-09-19T23:00:00+01:00"
 description = "STABAT MATER"
 gallery = ["/stabat-mater-gallery-2.jpg", "/stabat-mater-gallery-1.jpg"]
 thumbnail = "/stabat-mater.jpg"
