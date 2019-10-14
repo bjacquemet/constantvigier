@@ -21,7 +21,7 @@ date: 2019-05-09T17:04:10.000+00:00
 
 **In 2015 he is invited to take part in the "Tell Tale Steps" Choreographic Lab organised by Northern Ballet in Leeds.**
 
-**He also choreographs for The Edinburgh Military Tattoo in 2019.**
+**He also choreographed for The Edinburgh Military Tattoo in 2019.**
 
 **Constant was commissioned a new piece for the festival Cadences 2019 in Arcachon, France.**
 
