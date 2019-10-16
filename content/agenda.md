@@ -15,7 +15,7 @@ date: 2019-05-10T17:04:10.000+00:00
 
 ### 2018
 
-* **3-27 August 2018 :** “(Mes)dames”, Vive le Fringe. Fringe 2018. French Institute of Scotland. Edinburgh. UK.
+* [**3-27 August 2018 :** “(Mes)dames”, Vive le Fringe. Fringe 2018. French Institute of Scotland. Edinburgh. UK.]()
 
 ### 2016
 
