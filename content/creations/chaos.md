@@ -6,7 +6,7 @@ gallery = ["/2.jpg", "/5.jpg", "/1.jpg"]
 thumbnail = "/5.jpg"
 title = "CHAOS"
 url = "/chaos/"
-youtube = "https://youtu.be/3hgC_8FME0Y "
+youtube = "https://youtu.be/3hgC_8FME0Y"
 
 +++
 premiered at Théâtre de la Mer, Arcachon, France. Festival Cadences. 22 September 2019.
