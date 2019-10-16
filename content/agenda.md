@@ -6,13 +6,20 @@ date: 2019-05-10T17:04:10.000+00:00
 ---
 **Past events :**
 
+### 2019
+
+* **22 September 2019 :** "Chaos", Festival Cadences. Théâtre de la Mer. Arcachon. France.
+
+
+* **7-29 August 2019 :** "French Cancan" for Edinburgh Military Tattoo. The Castle Esplanade. Edinburgh. UK.
+
 ### 2018
 
 * **3-27 August 2018 :** “(Mes)dames”, Vive le Fringe. Fringe 2018. French Institute of Scotland. Edinburgh. UK.
 
 ### 2016
 
-* [**15 June 2016 : "**3:13**"**, Conservatoire's End of the Year's Gala. Théâtre André Malraux. Rueil-Malmaison. France.](http://www.constantvigier.com/313)
+* [**15 June 2016 : "3:13**", Conservatoire's End of the Year's Gala. Théâtre André Malraux. Rueil-Malmaison. France.](http://www.constantvigier.com/313)
 
 ### 2015
 
