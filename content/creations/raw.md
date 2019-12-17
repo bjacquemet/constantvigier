@@ -1,6 +1,6 @@
 +++
 credit = ""
-date = "2019-09-21T23:00:00+01:00"
+date = 2019-09-21T22:00:00Z
 description = "RAW"
 gallery = []
 thumbnail = "/raw.png"
@@ -19,13 +19,10 @@ This strange feeling of wanting someone who has so much power on you that they c
 
 </br>
 
-Dancers : Madeline Squire, Victor Zarallo.
+Dancers: Madeline Squire, Victor Zarallo.
 
 Music : Jon Hopkins' Breathe this Air.
 
-
-
-
-{{% left %}} **Reviews :** {{% /left %}}
+{{% left %}} **Reviews:** {{% /left %}}
 
 {{% left %}} [The Herald Scotland](https://www.heraldscotland.com/arts_ents/13413821.Dance_review__Independent_Ballet/) {{% /left %}}
