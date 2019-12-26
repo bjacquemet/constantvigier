@@ -16,21 +16,25 @@
   <!-- LIGHTGALLERY JS -->
   <script src="https://cdn.jsdelivr.net/npm/lightgallery.js@1.1.3/dist/js/lightgallery.min.js"></script>
   <script>
-    // LIGHTGALLERY
-    lightGallery(document.getElementById('lightgallery'));
 
     document.querySelector('.hamburger').addEventListener('click', function () {
       var om = document.querySelector(".overlay-menu");
       if (document.querySelector('.hamburger').classList.contains("cross")) {
         this.classList.remove("cross");
         om.style.opacity = "0";
+        om.style.width = "0%";
+        om.style.height = "0%";
       }
       else {
         this.classList.add("cross");
+        om.style.width = "100%";
+        om.style.height = "100vh";
         om.style.opacity = "1";
       }
     });
 
+    // LIGHTGALLERY
+    lightGallery(document.getElementById('lightgallery'));
   </script>
 </body>
 </html>

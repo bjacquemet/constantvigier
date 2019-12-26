@@ -3,6 +3,10 @@ languageCode = "en-uk"
 title = "Constant Vigier"
 theme= 'choregraphy'
 
+defaultMarkdownHandler = "goldmark"
+[markup.blackFriday]
+  hrefTargetBlank = true
+
 [params.footer]
   content = '“Dance is a human art, performed by humans for other humans.” John Neumeier'
 
