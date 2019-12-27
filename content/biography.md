@@ -2,18 +2,22 @@
 title: Biography
 description: Biography
 date: 2019-05-09T17:04:10.000+00:00
----
 
+---
 {{< figure src="/uploads/constant-vigier.jpg" alt="Constant Vigiaser Choregraphy" title="Portrait by Rimbaud Patron" >}}
 <br/>
 
-**I was born in Quimper, France on 12th March 1991.**
+**Constant Vigier was born in Quimper, France and studied ballet at the Conservatory of Rueil-Malmaison and went on to study in Paris where graduated from the Paris Opera Ballet School and later furthered his studies at the School of the Hamburg Ballet in Germany.**
 
-**I started ballet with Liliane Kochansky-Dupont when I was 10 years old at the _Conservatoire_ in Rueil-Malmaison where I also had clarinet, music, and singing classes.**
+**It was in Germany that Constant became interested in choreography under the inspiration of choreographer John Neumeier.**
 
-**The following year I joined the _Conservatoire_ in Paris while taking private classes with Olivier Letu at _Atelier Choregraphique_ in Rueil-Malmaison. From 2004 to 2009 I attended the _Paris Opera Ballet School_. After graduating, I joined John Neumeier in Hamburg, Germany. I graduated from the school and joined the _Hamburg Ballet John Neumeier_ for the season 2011-2012. I danced in his "The Lady of the Camellias", "Nijinsky", "The Little Mermaid", "Liliom", "Purgatorio", "Mahler's 3rd Symphony"... This is where I discovered my passion for choreography.**
+**He creates his first work in his graduation year in Hamburg, creating “Gleich, Anders, Gleich, Anders, Gl…” at the Ernst Deutsch Theatre.**
 
-**I spent half of the following season in Copenhagen with the _Tivoli Pantomime Theatre_ before joining the _Scottish Ballet_ in 2013 in Glasgow where I have been dancing since. My repertoire includes Christopher Hampson's "Rite of Spring" and "Hansel and Gretel", Kenneth MacMillan's "Elite Syncopations", Matthew Bourne's "Highland Fling", Christopher Bruce's "Ten Poems", Hans van Manen's "5 Tangos"...**
+**The following year, Constant took part in a showcase programme, Young Choreographers of the Hamburg Ballet, creating, “3X2 für M&M”.**
+
+**Since joining Scottish Ballet in 2013, Constant has created a number of works as an independent choreographer. These include creations for the Edinburgh Fringe Festival at DanceBase and the French Institute. In 2019, Constant choreographed for the Edinburgh Military Tattoo at the Edinburgh Castle. In 2015 he was invited to take part in the “Tell Tale Steps” Choreographic Lab organised by Northern Ballet in Leeds.** 
+
+**More recently, Constant was commissioned to create a new piece for the Festival Cadences 2019 in Arcachon, France.**
 
 {{% inline %}}
 ![Constant Vigier Choregraphy class="inline-img"](/uploads/constant-vigier-1.jpg "Constant Vigier Choregraphy")

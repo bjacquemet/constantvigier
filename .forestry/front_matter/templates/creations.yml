@@ -48,10 +48,11 @@ fields:
   label: youtube
   description: ID of the youtube Video (For example "Vo0eAyCSME8" in "https://www.youtube.com/watch?v=Vo0eAyCSME8")
 pages:
-- content/creations/raw.md
-- content/creations/gleich-anders-gleich-anders-gl.md
-- content/creations/origine.md
-- content/creations/oh-lord.md
-- content/creations/mesdames.md
 - content/creations/3x2-fur-m-m.md
+- content/creations/chaos.md
+- content/creations/gleich-anders-gleich-anders-gl.md
+- content/creations/mesdames.md
+- content/creations/oh-lord.md
+- content/creations/origine.md
+- content/creations/raw.md
 - content/creations/stabat-mater.md
