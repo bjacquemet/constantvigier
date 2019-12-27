@@ -3,8 +3,9 @@ languageCode = "en-uk"
 title = "Constant Vigier"
 theme= 'choregraphy'
 
-defaultMarkdownHandler = "goldmark"
-[markup.blackFriday]
+defaultMarkdownHandler = "blackFriday"
+[blackFriday]
+  plainIDAnchors = true
   hrefTargetBlank = true
 
 [params.footer]
