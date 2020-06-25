@@ -11,7 +11,7 @@ youtube = "jrUxU0t2nsQ"
 +++
 film created in April 2020.
 
-A solo inspired by the isolation during lockdown of the Covid-19 pandemic.
+A solo inspired by the isolation during the Covid-19 pandemic.
 
 Dancer : Constant Vigier.
 
