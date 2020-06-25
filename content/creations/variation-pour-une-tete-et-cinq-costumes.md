@@ -13,6 +13,6 @@ film created in April 2020.
 
 A solo inspired by the isolation during the Covid-19 pandemic.
 
-Dancer : Constant Vigier.
+Choreographer/Dancer : Constant Vigier.
 
 Music : Catnapp's "Thunder".
