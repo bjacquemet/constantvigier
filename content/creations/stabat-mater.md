@@ -21,8 +21,8 @@ Dancers : Chloë Réveillon, Constant Vigier.
 
 Music : Vivaldi's Stabat Mater.
 
-**Reviews :**
+{{% left %}} **Reviews :** {{% /left %}}
 
-[Dance Tabs](http://dancetabs.com/2014/08/vtdance-scottish-ballet-dance-artists-iwitness-special-edition-edinburgh/)
+{{% left %}} [Dance Tabs](http://dancetabs.com/2014/08/vtdance-scottish-ballet-dance-artists-iwitness-special-edition-edinburgh/) {{% /left %}}
 
-[The Herald Scotland](http://www.heraldscotland.com/arts_ents/13174957.Fringe_Dance__Reviews/)
+{{% left %}} [The Herald Scotland](http://www.heraldscotland.com/arts_ents/13174957.Fringe_Dance__Reviews/) {{% /left %}}
