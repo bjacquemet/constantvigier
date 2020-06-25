@@ -1,6 +1,6 @@
 +++
 credit = "Pictures by Silvano Ballone"
-date = "2019-09-17T23:00:00+01:00"
+date = 2019-09-17T22:00:00Z
 description = "3X2 FUR M&M"
 gallery = ["/silvanoballone-2.jpg", "/silvanoballone-3.jpg", "/silvanoballone-4.jpg", "/silvanoballone-1.jpg", "/silvanoballone-5.jpg", "/silvanoballone-6.jpg", "/silvanoballone-7.jpg", "/silvanoballone-8.jpg", "/silvanoballone-9.jpg", "/silvanoballone-10.jpg", "/silvanoballone-11.jpg", "/silvanoballone-12.jpg", "/silvanoballone-13.jpg", "/silvanoballone-14.jpg", "/silvanoballone-15.jpg"]
 thumbnail = "/silvanoballone-15.jpg"
@@ -12,6 +12,8 @@ youtube = "ZY4VCdxGkpQ"
 premiered at Deutschen Schauspielhaus, Hamburg, Germany. Junge Choreografen II. 27 March 2012.
 
 This piece is a representation of my relationship with dance. There are days when everything seems possible and easy and other days when it feels much deeper and profound like a very intimate love story. However it can also be very frustrating and become a fight between the body and the mind.
+
+Choreographer : Constant Vigier.
 
 Dancers : Priscilla Tselikova, Xue Lin, Yun-Su Park, Marcelino Libao, Aleix Martinez, Thomas Stuhrmann.
 
