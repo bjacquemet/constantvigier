@@ -21,7 +21,7 @@ Costumes : Constant Vigier.
 
 Music : Christine and the Queens (“Here”, “Saint-Claude”, “No Harm Is Done”, “Ugly-Pretty”, “Amazoniaque”) and Perfume Genius (“Queen”).
 
-{{% left %}} **Reviews :** {{% left %}}
+**Reviews :** 
 
 [The Herald Scotland](https://www.heraldscotland.com/arts_ents/16403394.fringe-dance-reviews-mesdames-institut-francais-d-ecosse-and-the-spinners-dance-base/)
 
