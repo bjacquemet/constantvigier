@@ -9,7 +9,7 @@ url = "/raw/"
 youtube = "qQwvPBioSkQ"
 
 +++
-{{% left %}} LEFT TEXT {{% /left %}}Premiered at Cottier Theatre, Glasgow, UK. Independant : Ballet, Cottier Dance Project. Cottiers Theatre. 19 June 2015.
+Premiered at Cottier Theatre, Glasgow, UK. Independant : Ballet, Cottier Dance Project. Cottiers Theatre. 19 June 2015.
 
 This choreography was first inspired by the song "Animal" by Maroon 5.
 
