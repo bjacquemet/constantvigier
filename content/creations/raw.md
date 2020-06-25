@@ -15,10 +15,12 @@ This choreography was first inspired by the song "Animal" by Maroon 5.
 
 This strange feeling of wanting someone who has so much power on you that they can destroy you was the main line of the inspiration of the movement.
 
+Choreographer : Constant Vigier.
+
 Dancers: Madeline Squire, Victor Zarallo.
 
 Music : Jon Hopkins' Breathe this Air.
 
- **Reviews:** 
+**Reviews:**
 
- [The Herald Scotland](https://www.heraldscotland.com/arts_ents/13413821.Dance_review__Independent_Ballet/) 
+[The Herald Scotland](https://www.heraldscotland.com/arts_ents/13413821.Dance_review__Independent_Ballet/)
