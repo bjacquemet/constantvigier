@@ -15,9 +15,11 @@ date: 2019-05-09T17:04:10.000+00:00
 
 **The following year, Constant took part in a showcase programme, Young Choreographers of the Hamburg Ballet, creating, “3X2 für M&M”.**
 
-**Since joining Scottish Ballet in 2013, Constant has created a number of works as an independent choreographer. These include creations for the Edinburgh Fringe Festival at DanceBase and the French Institute. In 2019, Constant choreographed for the Edinburgh Military Tattoo at the Edinburgh Castle. In 2015 he was invited to take part in the “Tell Tale Steps” Choreographic Lab organised by Northern Ballet in Leeds.** 
+**Since joining Scottish Ballet in 2013, Constant has created a number of works as an independent choreographer. These include creations for the Edinburgh Fringe Festival at DanceBase and the French Institute. In 2019, Constant choreographed for the Edinburgh Military Tattoo at the Edinburgh Castle. In 2015 he was invited to take part in the “Tell Tale Steps” Choreographic Lab organised by Northern Ballet in Leeds.**
 
-**More recently, Constant was commissioned to create a new piece for the Festival Cadences 2019 in Arcachon, France.**
+**In 2019, Constant was commissioned to create a new piece for the Festival Cadences in Arcachon, France.**
+
+**The following year he did a course about screendance with Katrina McPherson and started to do digital projects.**
 
 {{% inline %}}
 ![Constant Vigier Choregraphy class="inline-img"](/uploads/constant-vigier-1.jpg "Constant Vigier Choregraphy")
