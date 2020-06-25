@@ -13,6 +13,8 @@ premiered at Théâtre de la Mer, Arcachon, France. Festival Cadences. 22 Septem
 
 Inspired by Nadine Labaki's movie "Capernaum" this new piece by Constant Vigier is a reflexion on matters such as the responsibility of procreation, the conflict between modernity and tradition, and how one wants to decide for someone else.
 
+Choreographer : Constant Vigier.
+
 Dancers : Hélène Bernadou, Elio Clavel, Grace Paulley, Constant Vigier.
 
 Costumes : Annie Robinson, Constant Vigier.
