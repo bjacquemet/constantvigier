@@ -15,6 +15,6 @@ Inspired by Nadine Labaki's movie "Capernaum" this new piece by Constant Vigier 
 
 Dancers : Hélène Bernadou, Elio Clavel, Grace Paulley, Constant Vigier.
 
-Costumes : Annie Robinson, Constant Vigier
+Costumes : Annie Robinson, Constant Vigier.
 
 Music : Mouzanar, Prokofiev, Grieg, Shostakovitch, Piazzolla.
