@@ -9,12 +9,12 @@ url = "/yoyo/"
 youtube = "wmnmZuzr-Kk"
 
 +++
-film created in May 2020
+film created in May 2020.
 
 The narrative of this short screendance is inspired by the situation of lockdown during the Covid-19 pandemic.
 
-Dancers : Claire Souet, Rimbaud Patron and Marge Hendrick
+Dancers : Claire Souet, Rimbaud Patron and Marge Hendrick.
 
-Music : Dan O'Connor's "Copper Mountains"
+Music : Dan O'Connor's "Copper Mountains".
 
-Director / Choreographer / Editor : Constant Vigier
+Director / Choreographer / Editor : Constant Vigier.
