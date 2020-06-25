@@ -19,7 +19,7 @@ date: 2019-05-09T17:04:10.000+00:00
 
 **In 2019, Constant was commissioned to create a new piece for the Festival Cadences in Arcachon, France.**
 
-**The following year he did a course about screendance with Katrina McPherson and started to do digital projects.**
+**The following year he attended a course about screendance with Katrina McPherson and started to do digital projects.**
 
 {{% inline %}}
 ![Constant Vigier Choregraphy class="inline-img"](/uploads/constant-vigier-1.jpg "Constant Vigier Choregraphy")
