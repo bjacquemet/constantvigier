@@ -21,10 +21,10 @@ Costumes : Constant Vigier.
 
 Music : Christine and the Queens (“Here”, “Saint-Claude”, “No Harm Is Done”, “Ugly-Pretty”, “Amazoniaque”) and Perfume Genius (“Queen”).
 
-**Reviews :** 
+{{% left %}} **Reviews :** {{% /left %}}
 
-[The Herald Scotland](https://www.heraldscotland.com/arts_ents/16403394.fringe-dance-reviews-mesdames-institut-francais-d-ecosse-and-the-spinners-dance-base/)
+{{% left %}} [The Herald Scotland](https://www.heraldscotland.com/arts_ents/16403394.fringe-dance-reviews-mesdames-institut-francais-d-ecosse-and-the-spinners-dance-base/) {{% /left %}}
 
-[Mumble](https://mumblecirque.net/2018/08/12/mesdames/)
+{{% left %}} [Mumble](https://mumblecirque.net/2018/08/12/mesdames/) {{% /left %}}
 
-[Fest](https://www.fest-mag.com/edinburgh/dance-physical-theatre-circus/105038-dance-reviews-roundup-casting-off-mesdames-folding-echoes-xenos)
+{{% left %}} [Fest](https://www.fest-mag.com/edinburgh/dance-physical-theatre-circus/105038-dance-reviews-roundup-casting-off-mesdames-folding-echoes-xenos) {{% /left %}}
