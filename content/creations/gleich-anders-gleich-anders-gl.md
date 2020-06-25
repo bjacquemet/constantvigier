@@ -1,6 +1,6 @@
 +++
 credit = ""
-date = "2019-09-15T23:00:00+01:00"
+date = 2019-09-15T22:00:00Z
 description = "GLEICH, ANDERS, GLEICH, ANDERS, GL...?"
 gallery = ["/G-A-G-A-gallery.jpg"]
 thumbnail = "/G-A-G-A.jpg"
@@ -16,6 +16,8 @@ premiered at Ernst Deutsch Theater, Hamburg, Germany. Werkstatt der Kreativität
 Difference is often seen as a scary thing because it is the unknown but can't we actually take a bit of everything?
 
 I chose not to answer this question but only to put it out there in front of the audience by working on the meeting of a group and a single "stranger".
+
+Choreographer : Constant Vigier.
 
 Dancers : Aurore Lissitsky, Ornella Capece, Sofia Schabus, Christopher Evans, Takeshi Ikeda, Lizhong Wang.
 
