@@ -13,6 +13,8 @@ premiered at French Institute of Scotland, Edinburgh, UK. Vive le Fringe, Fringe
 
 Choreographed to the music of Christine and the Queens and Perfume Genius, Constant Vigier's response to the French motto 'liberté, egalité, fraternité' examines womanhood and how freedom and equality should be rights accorded regardless of gender. Three dancers create portraits of the place of women in our society, from the happy housewife to the ambitious businesswoman. In the fight for gender equality, the line between choices and labels is very fine and contradictory gendered perspectives complicate where this line lies. Is the label 'feminist' more weight than power?
 
+Choreographer : Constant Vigier.
+
 Dancers : Sophie Martin, Roseanna Leney, Grace Paulley.
 
 Costumes : Constant Vigier.
