@@ -9,7 +9,7 @@ url = "andletthemglow"
 youtube = "LWW_f-K0KvU"
 
 +++
-Music Video for the song "And Let Them Glow" by Yllwshark featured on their debut album I AM ALADDIN
+Music Video for the song "And Let Them Glow" by Yllwshrk featured on their debut album I AM ALADDIN
 
 Director : Lewis Landini
 
