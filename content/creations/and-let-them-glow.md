@@ -9,7 +9,7 @@ url = "andletthemglow"
 youtube = "LWW_f-K0KvU"
 
 +++
-The band Yllwshrk commissioned a Music Video for their song And Let Them Glow featured on their debut album I AM ALADDIN.
+Music Video for the song And Let Them Glow featured on Yllwshrk debut album I AM ALADDIN
 
 Director : Lewis Landini
 
