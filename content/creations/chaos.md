@@ -1,6 +1,6 @@
 +++
 credit = ""
-date = 2019-09-21T23:00:00Z
+date = 2019-09-22T23:00:00Z
 description = "CHAOS"
 gallery = ["/2.jpg", "/5.jpg", "/1.jpg"]
 thumbnail = "/5.jpg"
