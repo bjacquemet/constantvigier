@@ -1,6 +1,6 @@
 +++
 credit = ""
-date = 2019-08-14T22:00:00Z
+date = 2020-04-13T22:00:00Z
 description = "Variation pour une tête et cinq costumes"
 gallery = []
 thumbnail = "/screen-shot-2020-06-25-at-16-59-06.png"
