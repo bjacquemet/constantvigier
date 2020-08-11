@@ -6,7 +6,7 @@ gallery = ["/screen-shot-2020-06-25-at-17-33-36.png", "/screen-shot-2020-06-25-a
 thumbnail = "/screen-shot-2020-06-25-at-17-33-36.png"
 title = "YoYo"
 url = "/yoyo/"
-youtube = "wmnmZuzr-Kk"
+youtube = "kTZMn4tkwn4"
 
 +++
 film created in May 2020.
