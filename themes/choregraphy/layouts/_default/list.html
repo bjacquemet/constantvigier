@@ -1,5 +1,7 @@
 {{ partial "header" . }}
-
-  {{ .Content }}
+  
+  <div class="container page {{ .Title | lower }}">
+    {{ .Content }}
+  </div>
 
 {{ partial "footer" . }}

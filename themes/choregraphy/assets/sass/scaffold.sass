@@ -79,6 +79,13 @@ main
   +smartphone
     padding: 45px 34px
 
+video
+  margin-top: 30px
+  // background: url('/images/play.png')
+
+  +smartphone
+    margin-top: 15px
+
 // HEADER
 
 .page-header
@@ -172,6 +179,27 @@ form
 
 // HOME
 
+.home
+  #lightgallery
+    position: relative
+
+    .play
+      position: absolute
+      top: 50%
+      left: 50%
+      transform: translate(-50%, -50%)
+
+      p
+        font-size: 1.2em
+        font-weight: 500
+        color: $red-background-color
+
+    video
+      width: 100%
+      height: auto
+
+
+// LEGACY
 .huge
   font-family: "Cabin", sans-serif
   font-size: 6.95em
@@ -195,6 +223,8 @@ form
     padding-bottom: 200px
     padding-top: 50px
 
+// END LEGACY
+
 // HOME END
 
 // PAGES
@@ -203,7 +233,7 @@ form
   font-family: "Source Code Pro", sans-serif
   font-size: 1em
 
-  &.biography
+  &
     font-weight: 700
     font-style: italic
     line-height: 2.07em
@@ -212,6 +242,7 @@ form
   &.agenda
     font-weight: 500
     font-style: normal
+    text-align: left
 
     li
       margin: 0.5em auto

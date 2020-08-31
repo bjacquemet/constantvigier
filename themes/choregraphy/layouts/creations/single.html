@@ -23,7 +23,7 @@
       {{ $title := .Title }}
       <div class="gallery" id="lightgallery">
         {{range .Params.Gallery }}
-          <a href="/uploads/{{.}}">
+          <a href="/uploads/{{.}}" class='gallery-item'>
             <img src="/uploads/{{.}}" alt={{$title}} class="img-gallery">
           </a>
         {{end}}
