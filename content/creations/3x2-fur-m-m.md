@@ -1,6 +1,6 @@
 +++
 credit = "Pictures by Silvano Ballone"
-date = 2019-09-17T22:00:00Z
+date = 2020-04-16T22:00:00Z
 description = "3X2 FUR M&M"
 gallery = ["/silvanoballone-2.jpg", "/silvanoballone-3.jpg", "/silvanoballone-4.jpg", "/silvanoballone-1.jpg", "/silvanoballone-5.jpg", "/silvanoballone-6.jpg", "/silvanoballone-7.jpg", "/silvanoballone-8.jpg", "/silvanoballone-9.jpg", "/silvanoballone-10.jpg", "/silvanoballone-11.jpg", "/silvanoballone-12.jpg", "/silvanoballone-13.jpg", "/silvanoballone-14.jpg", "/silvanoballone-15.jpg"]
 thumbnail = "/silvanoballone-15.jpg"
