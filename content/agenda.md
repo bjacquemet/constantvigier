@@ -39,4 +39,4 @@ date: 2019-05-10T17:04:10.000+00:00
 
 2012
 
-* [Mars 2012 : "3x2 für M&M" for Hamburg Ballet Young Choreographers at the Deutschen Schauspielhaus.](http://www.constantvigier.com/3x2furm&m)
+* [Mars 2012 : "3x2 für M&M" for Hamburg Ballet Young Choreographers at the Deutschen Schauspielhaus.](http://www.constantvigier.com/creations-1-1)
