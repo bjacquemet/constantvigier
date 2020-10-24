@@ -9,12 +9,12 @@ url = "andletthemglow"
 youtube = "LWW_f-K0KvU"
 
 +++
-Music Video for the song "And Let Them Glow" by Yllwshrk featured on their debut album I AM ALADDIN
+Music Video for the song "And Let Them Glow" by Yllwshrk featured on their debut album I AM ALADDIN.
 
-Director : Lewis Landini
+Director : Lewis Landini.
 
-Choreographer : Constant Vigier
+Choreographer : Constant Vigier.
 
-Dancer : Nicholas Shoesmith
+Dancer : Nicholas Shoesmith.
 
-Steady Cam Operator : Diana Dumi
+Steady Cam Operator : Diana Dumi.
