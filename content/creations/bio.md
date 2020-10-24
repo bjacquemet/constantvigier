@@ -1,6 +1,6 @@
 +++
 credit = ""
-date = 2020-10-30T00:00:00Z
+date = 2020-10-22T23:00:00Z
 description = ""
 gallery = []
 thumbnail = "/constant-vigier-2019_forweb_1a0c6c337960b60fa85453261bf27072.jpg"
