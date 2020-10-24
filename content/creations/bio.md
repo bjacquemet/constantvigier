@@ -2,7 +2,6 @@
 credit = ""
 date = 2020-10-30T00:00:00Z
 description = ""
-draft = true
 gallery = []
 thumbnail = ""
 title = "bio"
@@ -10,7 +9,7 @@ url = "/bobobo"
 youtube = ""
 
 +++
-{{< figure src="/uploads/constant-vigier.jpg" alt="Constant Vigiaser Choregraphy" title="Portrait by Eve McConnachie" >}} <br/>
+{{< figure src="/uploads//uploads/constant-vigier-2019_forweb_1a0c6c337960b60fa85453261bf27072.jpg" alt="Constant Vigiaser Choregraphy" title="Portrait by Eve McConnachie" >}} <br/>
 
 **Constant Vigier was born in Quimper, France and studied ballet at the Conservatory of Rueil-Malmaison and went on to study in Paris where graduated from the Paris Opera Ballet School and later furthered his studies at the School of the Hamburg Ballet in Germany.**
 
