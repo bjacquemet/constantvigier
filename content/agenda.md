@@ -8,9 +8,7 @@ date: 2019-05-10T17:04:10.000+00:00
 
 ### 2020
 
-* **October 2020 :** ["My Beautiful Life", music video for Jerry Burns](http://www.constantvigier.com/mybeautifullife)
-
-                             ["16:1.5".](http://www.constantvigier.com/16-1-5)
+* **October 2020 :** ["My Beautiful Life", music video for Jerry Burns](http://www.constantvigier.com/mybeautifullife) and ["16:1.5".](http://www.constantvigier.com/16-1-5)
 * **September 2020 :** ["16:1.4".](http://www.constantvigier.com/16-1-4)
 * **August 2020 :** ["YoYo".](http://www.constantvigier.com/yoyo)
 
