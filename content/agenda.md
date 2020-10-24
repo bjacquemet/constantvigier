@@ -10,15 +10,15 @@ date: 2019-05-10T17:04:10.000+00:00
 
 * **October 2020 :** ["My Beautiful Life", music video for Jerry Burns](http://www.constantvigier.com/mybeautifullife)
 
-                             ["16:1.5".](16-1-5)
-* **September 2020 :** ["16:1.4".](16-1-4)
+                             ["16:1.5".](http://www.constantvigier.com/16-1-5)
+* **September 2020 :** ["16:1.4".](http://www.constantvigier.com/16-1-4)
 * **August 2020 :** ["YoYo".](http://www.constantvigier.com/yoyo)
 
-                          ["16:1.3".](16-1-3)
+                          ["16:1.3".](http://www.constantvigier.com/16-1-3)
 * **July 2020 :** ["And Let Them Glow", music video for YLLSHRK.](http://www.constantvigier.com/andletthemglow)
 
                    [  "16:1.2".](16-1-2)
-* **May 2020 :** ["16:1".](16-1-1)
+* **May 2020 :** ["16:1".](http://www.constantvigier.com/16-1)
 
 ### 2019
 
