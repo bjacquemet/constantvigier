@@ -11,10 +11,10 @@ youtube = "https://youtu.be/VGkfPjXY3dI"
 +++
 Music video for [YLLWSHRK](https://www.yllwshrk.com/yellowshark) released on 11th November 2020
 
-Music written, performed and produced by : [YLLWSHRK](https://www.yllwshrk.com/yellowshark)
+Music written, performed and produced by : [YLLWSHRK](https://www.yllwshrk.com/yellowshark).
 
-Dancer : Katie Miller
+Dancer : Katie Miller.
 
-Director and Choreographer : Constant Vigier
+Director and Choreographer : Constant Vigier.
 
-Editor and Producer : [Jamiel Laurence](https://www.jamiellaurence.com/)
+Editor and Producer : [Jamiel Laurence](https://www.jamiellaurence.com/).
