@@ -4,19 +4,17 @@ date = 2020-11-11T00:00:00Z
 description = "Arsenik"
 gallery = []
 thumbnail = "/arsenik.png"
-title = "Arsenik"
+title = "ARSENIK"
 url = "arsenik"
 youtube = "https://youtu.be/VGkfPjXY3dI"
 
 +++
-"ARSENIK"
+Music video for [YLLWSHRK](https://www.yllwshrk.com/yellowshark) released on 11th November 2020
 
-Music video for [YLLWSHRK]( https://www.yllwshrk.com/yellowshark) released on 11th November 2020
+Music written, performed and produced by : YLLSHRK
 
-Music written, performed and produced by : YLLSHRK 
+Dancer : Katie Miller
 
-Dancer : Katie Miller 
-
-Director and Choreographer : Constant Vigier 
+Director and Choreographer : Constant Vigier
 
 Editor and Producer : Jamiel Laurence
