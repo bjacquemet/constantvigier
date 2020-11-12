@@ -6,7 +6,7 @@ gallery = []
 thumbnail = "/arsenik.png"
 title = "ARSENIK"
 url = "arsenik"
-youtube = "https://youtu.be/VGkfPjXY3dI"
+youtube = "VGkfPjXY3dI"
 
 +++
 Music video for [YLLWSHRK](https://www.yllwshrk.com/yellowshark) released on 11th November 2020.
