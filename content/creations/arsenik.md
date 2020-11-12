@@ -11,7 +11,7 @@ youtube = "https://youtu.be/VGkfPjXY3dI"
 +++
 Music video for [YLLWSHRK](https://www.yllwshrk.com/yellowshark) released on 11th November 2020
 
-Music written, performed and produced by : YLLSHRK
+Music written, performed and produced by : YLLWSHRK
 
 Dancer : Katie Miller
 
