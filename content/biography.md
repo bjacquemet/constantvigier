@@ -4,7 +4,7 @@ description: Biography
 date: 2019-05-09T17:04:10.000+00:00
 
 ---
-{{< figure src="/uploads/constant-vigier.jpg" alt="Constant Vigier Choregraphy" title="Portrait by Eve McConnachie" >}} <br/>
+{{< figure src="/uploads/constant-vigier.jpg" alt="Constant Vigier" title="Portrait by Eve McConnachie" >}} <br/>
 
 **Constant Vigier was born in Quimper, France and studied ballet at the Conservatory of Rueil-Malmaison and went on to study in Paris where graduated from the Paris Opera Ballet School and later furthered his studies at the School of the Hamburg Ballet in Germany.**
 
