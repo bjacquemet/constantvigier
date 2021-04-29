@@ -1,13 +1,13 @@
 +++
 credit = ""
 date = 2021-04-16T23:00:00Z
-description = ""
+description = "Queens"
 draft = true
 gallery = []
-thumbnail = ""
+thumbnail = "/screenshot-2021-04-29-at-19-38-12.png"
 title = "Queens"
 url = "queens"
-youtube = ""
+youtube = "Djt9KZBApiw"
 
 +++
 Queens
