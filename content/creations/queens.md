@@ -13,8 +13,8 @@ Queens
 
 a film inspired by fashion adverts
 
-Director, choreographer and designer : Constant Vigier
-
 Dancers : Rishan Benjamin, Grace Horler, Marge Hendrick, Roseanna Leney, Grace Paulley
+
+Director, choreographer and designer : Constant Vigier
 
 Music : "The Weight" by Weval
