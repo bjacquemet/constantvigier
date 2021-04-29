@@ -11,9 +11,9 @@ youtube = "Djt9KZBApiw"
 +++
 Queens
 
-film inspired by fashion adverts
+a film inspired by fashion adverts
 
-Director and choreographer : Constant Vigier
+Director, choreographer and designer : Constant Vigier
 
 Dancers : Rishan Benjamin, Grace Horler, Marge Hendrick, Roseanna Leney, Grace Paulley
 
