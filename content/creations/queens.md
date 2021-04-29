@@ -2,7 +2,6 @@
 credit = ""
 date = 2021-04-16T23:00:00Z
 description = "Queens"
-draft = true
 gallery = []
 thumbnail = "/screenshot-2021-04-29-at-19-38-12.png"
 title = "Queens"
@@ -11,3 +10,11 @@ youtube = "Djt9KZBApiw"
 
 +++
 Queens
+
+film inspired by fashion adverts
+
+Director and choreographer : Constant Vigier
+
+Dancers : Rishan Benjamin, Grace Horler, Marge Hendrick, Roseanna Leney, Grace Paulley
+
+Music : "The Weight" by Weval
