@@ -19,15 +19,17 @@
       </div>
     {{ end }}
 
-    {{ if and ((.Params.Gallery) (gt (len .Params.Gallery) 0)) }}
-      {{ $title := .Title }}
-      <div class="gallery" id="lightgallery">
-        {{range .Params.Gallery }}
-          <a href="/uploads/{{.}}" class='gallery-item'>
-            <img src="/uploads/{{.}}" alt={{$title}} class="img-gallery">
-          </a>
-        {{end}}
-      </div>
+    {{ if (.Params.Gallery) }}
+      {{ if (gt (len .Params.Gallery) 0)}}
+        {{ $title := .Title }}
+        <div class="gallery" id="lightgallery">
+          {{range .Params.Gallery }}
+            <a href="/uploads/{{.}}" class='gallery-item'>
+              <img src="/uploads/{{.}}" alt={{$title}} class="img-gallery">
+            </a>
+          {{end}}
+        </div>
+      {{ end }}
     {{ end }}
 
     {{ if .Params.Credit }}
