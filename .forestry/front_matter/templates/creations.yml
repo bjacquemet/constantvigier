@@ -47,7 +47,7 @@ fields:
     required: false
   label: youtube
   description: ID of the youtube Video (For example "Vo0eAyCSME8" in "https://www.youtube.com/watch?v=Vo0eAyCSME8")
-- name: is_part_of_the_16-1_series
+- name: is16
   type: boolean
   label: is part of the 16-1 series
   default: false

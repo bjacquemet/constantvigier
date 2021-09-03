@@ -4,7 +4,7 @@ description = "16:1 series"
 is16 = true
 thumbnail = "/screen-shot-2020-06-25-at-17-26-08.png"
 title = "16:1 series"
-url = "/creations/16-1"
+url = "creations/16-1"
 
 +++
 ### 16-1 SERIES
