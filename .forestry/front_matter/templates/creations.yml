@@ -27,7 +27,7 @@ fields:
 - name: thumbnail
   type: file
   config:
-    maxSize: 250
+    maxSize: 64
   label: thumbnail
   description: The image that is displayed as a thumbnail on the /creations page
 - name: gallery
@@ -47,12 +47,11 @@ fields:
     required: false
   label: youtube
   description: ID of the youtube Video (For example "Vo0eAyCSME8" in "https://www.youtube.com/watch?v=Vo0eAyCSME8")
+- name: is_part_of_the_16-1_series
+  type: boolean
+  label: is part of the 16-1 series
+  default: false
 pages:
-- content/creations/16-1.2.md
-- content/creations/16-1.3.md
-- content/creations/16-1.4.md
-- content/creations/16-1.5.md
-- content/creations/16-1.md
 - content/creations/3x2-fur-m-m.md
 - content/creations/and-let-them-glow.md
 - content/creations/arsenik.md
