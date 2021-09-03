@@ -1,7 +1,16 @@
 {{ partial "header" . }}
 
-  {{ .Content }}
   <div class="container creations">
+    {{ if .Params.Is16 }}
+    <div class="back">
+      <a href="/creations" title="back_button">
+        <button>
+          BACK
+        </button>
+      </a>
+    </div>
+    {{ end }}
+    {{ .Content }}
     <ul class="creations">
     {{ range .Pages.ByDate.Reverse }}
       {{- partial "creationlist" . -}}
