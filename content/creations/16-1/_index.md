@@ -9,4 +9,4 @@ url = "creations/16-1"
 +++
 ### 16-1 SERIES
 
-Welcome to the 16:1 series.
+“16:1” is a choreographic series and concept created by Constant Vigier
