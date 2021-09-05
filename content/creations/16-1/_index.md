@@ -10,3 +10,7 @@ url = "creations/16-1"
 ### 16-1 SERIES
 
 “16:1” is a choreographic series and concept created by Constant Vigier
+
+"I saw \[a dance video\] by [Constant Vigier](https://constantvigier.com/), \[...\] A lot of little screens combined; sometimes the movements were in unison, sometimes they were slightly off. That was clever." 
+
+Alexei Ratmansky, artist in residence at American Ballet Theatre and former director of the Bolshoi Ballet.
