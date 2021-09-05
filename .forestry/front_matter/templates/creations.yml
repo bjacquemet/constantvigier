@@ -52,6 +52,7 @@ fields:
   label: is part of the 16-1 series
   default: false
 pages:
+- content/creations/16-1/16-1.fragments-of-self.md
 - content/creations/3x2-fur-m-m.md
 - content/creations/and-let-them-glow.md
 - content/creations/arsenik.md
